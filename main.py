@@ -1,4 +1,4 @@
-# Elli is learning
+# Elli is learning and she's not having fun
 import pygame
 import os
 
